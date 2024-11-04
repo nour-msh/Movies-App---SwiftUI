@@ -32,5 +32,5 @@ struct MoviesTabView: View {
 }
 
 #Preview {
-    ContentView()
+    MoviesTabView()
 }

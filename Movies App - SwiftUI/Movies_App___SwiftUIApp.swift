@@ -3,10 +3,10 @@
 import SwiftUI
 
 @main
-struct ___PACKAGENAME:identifier___App: App {
+struct Movies_App___SwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MoviesTabView()
         }
     }
 }
